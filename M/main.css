@@ -494,6 +494,10 @@ body{
 		
 	}
 	
+	.grid-item{
+		height: 25vh;
+	}
+	
 		.grid-item-7{
 	grid-column: 2 / 2;
 	grid-row: 1 / 1;
